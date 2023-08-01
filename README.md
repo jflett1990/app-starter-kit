@@ -1,9 +1,7 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 📦Color Bot 
 
-Description of the app ...
+
+assisting stylists in creating custom hair color formula
 
 ## Demo App
 
